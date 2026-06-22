@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# American Logo Expert
 
-## Getting Started
+Next.js 16 website for americanlogoexpert.com.
 
-First, run the development server:
+## Local development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Copy `.env.example` to `.env.local` and add the real SMTP password before testing form delivery. `.env.local` is ignored by Git.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Hostinger email setup
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. In Hostinger hPanel, open **Emails**, choose the domain, and create the `Info@americanlogoexpert.com` business mailbox. Set a strong mailbox password and keep it outside source control.
+2. Open the mailbox configuration/connect-apps screen to confirm its SMTP settings. Standard Hostinger Email normally uses `smtp.hostinger.com`, port `465`, with SSL/TLS enabled.
+3. Add the following environment variables in Hostinger’s application environment settings (and in `.env.local` for local testing):
 
-## Learn More
+```env
+SMTP_HOST=smtp.hostinger.com
+SMTP_PORT=465
+SMTP_SECURE=true
+SMTP_USER=Info@americanlogoexpert.com
+SMTP_PASS=the_real_mailbox_password
+MAIL_FROM=Info@americanlogoexpert.com
+MAIL_TO=Info@americanlogoexpert.com
+```
 
-To learn more about Next.js, take a look at the following resources:
+The password is read only by the server-side route at `/api/contact`; it is never exposed through a `NEXT_PUBLIC_` variable or sent to the browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Titan Email
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+If the Hostinger account uses Titan Email, change only the host unless the mailbox configuration screen specifies otherwise:
 
-## Deploy on Vercel
+```env
+SMTP_HOST=smtp.titan.email
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Keep port `465` and `SMTP_SECURE=true` when using SSL/TLS.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Testing form delivery
+
+1. Add valid SMTP credentials and restart the Next.js server so environment changes are loaded.
+2. Submit the Contact page form and the discount popup form with a real reply email.
+3. Confirm the UI displays a success message and a new lead arrives at `Info@americanlogoexpert.com`.
+4. Check spam/junk if the first message is delayed. If delivery fails, inspect the server log—not the browser console—for the Nodemailer error and verify the mailbox password, SMTP host, port, and SSL setting.
+5. Run `npm run lint` and `npm run build` before deployment.
+
+The endpoint includes server-side validation, HTML escaping, a honeypot field, request-size limits, and basic in-memory rate limiting. For multi-instance deployments, replace the in-memory limiter with a shared Redis-backed limiter.

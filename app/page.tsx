@@ -1,65 +1,12 @@
-import Image from "next/image";
-
-export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
-  );
-}
+import Link from "next/link"; import { ArrowRight, Check, Clock3, Gem, Sparkles, Target, PencilRuler, Layers3, Rocket, Star } from "lucide-react";
+import HeroVisual from "@/components/HeroVisual"; import ServicesGrid from "@/components/ServicesGrid"; import PortfolioGrid from "@/components/PortfolioGrid"; import CTA from "@/components/CTA"; import OfferButton from "@/components/OfferButton";
+const marquee=['Logo Design','Brand Strategy','Web Development','Mobile Experiences','Visual Identity','Motion Design'];
+export default function Home(){return <>
+<section className="grid-bg noise relative min-h-[900px] overflow-hidden pt-40"><div className="absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 blur-[120px]"/><div className="container relative z-10 grid items-center gap-12 lg:grid-cols-[1.1fr_.9fr]"><div className="pt-12"><div className="eyebrow" data-aos="fade-up">Independent creative agency · USA</div><h1 className="display mt-7 text-[clamp(68px,9.3vw,142px)]" data-aos="fade-up" data-aos-delay="70">Brands built<br/>to <span className="red">stand out.</span></h1><p className="muted mt-7 max-w-xl text-lg" data-aos="fade-up" data-aos-delay="140">We create powerful logos, brand identities, websites, and mobile experiences that turn ambitious businesses into unforgettable brands.</p><div className="mt-9 flex flex-wrap gap-3" data-aos="fade-up" data-aos-delay="210"><OfferButton/><Link href="/portfolio" className="btn btn-ghost">View portfolio</Link></div></div><HeroVisual/></div><div className="container relative z-10 mt-20 grid grid-cols-2 border-y border-white/10 md:grid-cols-4">{[[Gem,'100%','Custom designs'],[Clock3,'Fast','Turnaround'],[Sparkles,'Unlimited','Creativity'],[Target,'Expert','Brand strategy']].map(([Icon,big,small],i)=><div key={small as string} className="flex items-center gap-4 border-r border-white/10 px-4 py-7 last:border-r-0" data-aos="fade-up" data-aos-delay={i*60}><Icon className="text-red-500" size={23}/><div><b className="display block text-xl">{big as string}</b><span className="text-[10px] uppercase tracking-widest text-zinc-500">{small as string}</span></div></div>)}</div></section>
+<div className="marquee"><div className="marquee-track">{[...marquee,...marquee].map((x,i)=><div className="marquee-item" key={i}><span>✦</span>{x}</div>)}</div></div>
+<section className="section"><div className="container"><div className="mb-14 flex flex-col gap-5 lg:flex-row lg:items-end lg:justify-between"><div><span className="eyebrow">What we do best</span><h2 className="display section-title">Ideas made <span className="red">iconic.</span></h2></div><p className="muted max-w-md">From the first sketch to a complete digital ecosystem, we create focused work with real commercial muscle.</p></div><ServicesGrid limit={6}/><div className="mt-10 text-center"><Link className="btn btn-ghost" href="/services">Explore all services <ArrowRight size={16}/></Link></div></div></section>
+<section className="section overflow-hidden bg-[#101115]"><div className="container grid gap-14 lg:grid-cols-2 lg:items-center"><div className="relative aspect-square max-w-[520px] border border-white/10 bg-[#0b0c0f] p-12" data-aos="fade-right"><div className="grid-bg absolute inset-0"/><div className="relative grid h-full place-items-center"><div className="absolute h-[78%] w-[78%] rounded-full border border-red-500/30"/><div className="absolute h-[55%] w-[55%] rotate-45 border border-white/20"/><div className="display z-10 text-center text-7xl">Your<br/><span className="red">Mark</span><br/>Matters.</div></div></div><div data-aos="fade-left"><span className="eyebrow">Why American Logo Expert</span><h2 className="display section-title">Strategy first.<br/><span className="red">Always original.</span></h2><p className="muted max-w-lg">Pretty is not enough. We combine sharp strategic thinking with senior-level design craft to give your business an identity with purpose.</p><div className="mt-9 grid gap-6 sm:grid-cols-2">{['Original concepts, never templates','Built for every brand touchpoint','Clear communication, zero mystery','Full ownership of final assets'].map(x=><div key={x} className="flex gap-3 border-t border-white/10 pt-4 text-sm font-semibold"><Check size={18} className="shrink-0 text-red-500"/>{x}</div>)}</div></div></div></section>
+<section className="section"><div className="container"><span className="eyebrow">Our creative process</span><h2 className="display section-title">Simple process.<br/><span className="red">Serious results.</span></h2><div className="mt-14 grid gap-3 md:grid-cols-2 lg:grid-cols-4" data-aos="fade-up">{[[Target,'Discover','We unpack your goals, audience, and competitive landscape.'],[PencilRuler,'Create','Our designers explore distinct, strategic creative routes.'],[Layers3,'Refine','Your feedback shapes the strongest direction into a final system.'],[Rocket,'Launch','We equip you with every asset needed to show up confidently.']].map(([Icon,t,d],i)=><div key={t as string} className="premium-card card group relative cursor-pointer p-7 transition-all duration-300 ease-in-out hover:-translate-y-2 hover:scale-[1.03] hover:border-red-500 hover:shadow-2xl hover:shadow-red-500/30"><span className="display text-6xl text-white/[.07]">0{i+1}</span><Icon className="mt-8 text-red-500 transition-transform duration-300 group-hover:scale-110 group-hover:-rotate-3"/><h3 className="display mt-5 text-3xl">{t as string}</h3><p className="muted mt-3 text-sm">{d as string}</p></div>)}</div></div></section>
+<section className="section bg-[#101115]"><div className="container"><div className="mb-12 flex items-end justify-between"><div><span className="eyebrow">Selected work</span><h2 className="display section-title mb-0">Featured <span className="red">Logo Designs.</span></h2></div><Link href="/portfolio" className="btn btn-ghost hidden md:flex">View Full Portfolio <ArrowRight size={16}/></Link></div><PortfolioGrid limit={8} featured/><div className="mt-10 text-center md:hidden"><Link href="/portfolio" className="btn btn-ghost">View Full Portfolio <ArrowRight size={16}/></Link></div></div></section>
+<section className="section"><div className="container"><span className="eyebrow">Straightforward packages</span><h2 className="display section-title">Choose your <span className="red">launchpad.</span></h2><div className="mt-12 grid gap-5 lg:grid-cols-3" data-aos="fade-up">{[{n:'Basic Logo',p:'$299',d:'For new ideas ready for a professional first impression.',f:['3 original concepts','3 revision rounds','Logo file suite','5–7 day delivery']},{n:'Professional Branding',p:'$799',d:'For growing businesses that need a cohesive identity.',f:['5 original concepts','Unlimited revisions','Mini brand guidelines','Social media kit'],hot:true},{n:'Premium Digital',p:'Custom',d:'For ambitious brands building a complete market presence.',f:['Complete brand identity','Custom website design','Digital asset system','Priority creative team']}].map(x=><article key={x.n} className={`premium-card card group relative cursor-pointer p-8 transition-all duration-300 ease-in-out hover:-translate-y-2 hover:scale-[1.03] hover:border-red-500 hover:shadow-2xl hover:shadow-red-500/30 ${x.hot?'border-red-500 shadow-[0_0_45px_rgba(227,27,35,.12)]':''}`}>{x.hot&&<span className="absolute right-5 top-0 -translate-y-1/2 bg-red-600 px-3 py-1 text-[10px] font-bold uppercase tracking-widest">Most popular</span>}<h3 className="display text-3xl">{x.n}</h3><p className="muted mt-3 min-h-14 text-sm">{x.d}</p><div className="display my-8 text-6xl">{x.p}</div><div className="mb-8 grid gap-3">{x.f.map(f=><div key={f} className="flex gap-2 text-sm text-zinc-300"><Check size={16} className="text-red-500 transition-transform group-hover:scale-110"/>{f}</div>)}</div><Link className={`btn w-full ${x.hot?'btn-primary':'btn-ghost'}`} href="/contact">Get started</Link></article>)}</div></div></section>
+<section className="section bg-[#101115]"><div className="container grid gap-10 lg:grid-cols-[.7fr_1.3fr]"><div><span className="eyebrow">Client stories</span><h2 className="display section-title">Good work.<br/><span className="red">Good words.</span></h2></div><div className="grid gap-4 md:grid-cols-2" data-aos="fade-up">{[['Sarah Mitchell','Founder, North & Co.','They understood the business behind the logo. The result feels established, original, and exactly like us.'],['Marcus Reed','CEO, Ironclad Athletics','Fast, thoughtful, and genuinely collaborative. Our new identity has changed how customers see our brand.']].map(x=><blockquote key={x[0]} className="premium-card card group cursor-pointer p-8 transition-all duration-300 ease-in-out hover:-translate-y-2 hover:scale-[1.03] hover:border-red-500 hover:shadow-2xl hover:shadow-red-500/30"><div className="flex gap-1 text-red-500">{Array.from({length:5}).map((_,j)=><Star key={j} size={14} fill="currentColor" className="transition-transform duration-300 group-hover:scale-110"/>)}</div><p className="mt-6 text-xl leading-8 text-zinc-200">“{x[2]}”</p><footer className="mt-8 border-t border-white/10 pt-5"><b>{x[0]}</b><span className="block text-xs text-zinc-500">{x[1]}</span></footer></blockquote>)}</div></div></section><CTA/></>}

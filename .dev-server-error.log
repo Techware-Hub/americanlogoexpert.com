@@ -1,0 +1,1930 @@
+⚠ Port 3000 is in use by process 25264, using available port 3001 instead.
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⨯ ./app/contact/page.tsx:1:138
+Module not found: Can't resolve '@/components/ContactForm'
+[31m[1m>[0m [90m1 |[0m ...[32mponents/PageHero"[0m; [36mimport[0m [33mContactForm[0m [36mfrom[0m [32m"@/components/ContactForm"[0m;
+  [90m  |[0m                       [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...[32mwith American Logo Expert."[0m};
+  [90m3 |[0m ...[32mark."[0m copy=[32m"Tell us where you are headed. We will come back with thoughtful questions, c...[0m
+  [90m4 |[0m ...
+
+Import map: aliased to relative './components/ContactForm' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/contact/page.tsx:1:138
+Module not found: Can't resolve '@/components/ContactForm'
+[31m[1m>[0m [90m1 |[0m ...[32mponents/PageHero"[0m; [36mimport[0m [33mContactForm[0m [36mfrom[0m [32m"@/components/ContactForm"[0m;
+  [90m  |[0m                       [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...[32mwith American Logo Expert."[0m};
+  [90m3 |[0m ...[32mark."[0m copy=[32m"Tell us where you are headed. We will come back with thoughtful questions, c...[0m
+  [90m4 |[0m ...
+
+Import map: aliased to relative './components/ContactForm' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/DiscountModal'
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m8 |[0m
+  [90m9 |[0m [36mconst[0m body = [33mBarlow[0m({ subsets:[[32m"latin"[0m], variable:[32m"--font-body"[0m, weight:[[32m"400"[0m,[32m"500"[0m,[32m"600"[0m,[32m...[0m
+
+Import map: aliased to relative './components/DiscountModal' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/Footer'
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+  [90m7 |[0m [36mimport[0m [32m"./globals.css"[0m;
+
+Import map: aliased to relative './components/Footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:1:141
+Module not found: Can't resolve '@/components/CTA'
+[31m[1m>[0m [90m1 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m;
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...[32my American Logo Expert."[0m};
+  [90m3 |[0m ...[32mtfolio."[0m copy=[32m"A selection of bold identity and digital work created to help ambitious b...[0m
+  [90m4 |[0m ...
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:1:141
+Module not found: Can't resolve '@/components/CTA'
+[31m[1m>[0m [90m1 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m;
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...[32my American Logo Expert."[0m};
+  [90m3 |[0m ...[32mtfolio."[0m copy=[32m"A selection of bold identity and digital work created to help ambitious b...[0m
+  [90m4 |[0m ...
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/about/page.tsx:1:203
+Module not found: Can't resolve '@/components/CTA'
+[31m[1m>[0m [90m1 |[0m ...[36mm[0m [32m"@/components/PageHero"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m;
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...
+  [90m3 |[0m ...[32mr, confident identities for ambitious businesses across America and beyond."[0m/><section c...
+  [90m4 |[0m ...
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/about/page.tsx:1:203
+Module not found: Can't resolve '@/components/CTA'
+[31m[1m>[0m [90m1 |[0m ...[36mm[0m [32m"@/components/PageHero"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m;
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...
+  [90m3 |[0m ...[32mr, confident identities for ambitious businesses across America and beyond."[0m/><section c...
+  [90m4 |[0m ...
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:161
+Module not found: Can't resolve '@/components/CTA'
+  [90m1 |[0m ...[32mucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32mcomponents/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m [32m"@/components/CTA"[0m; [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"...[0m
+  [90m  |[0m                               [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+  [90m5 |[0m ...[32mx] w-[500px] rounded-full bg-red-700/10 blur-[120px]"[0m/><div className=[32m"container relativ...[0m
+
+Import map: aliased to relative './components/CTA' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+Contact form email failed: Error: Invalid login: 535 5.7.8 Error: authentication failed: (reason unavailable)
+    at ignore-listed frames {
+  code: 'EAUTH',
+  response: '535 5.7.8 Error: authentication failed: (reason unavailable)',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+  [90m2 |[0m [36mimport[0m { [33mBarlow[0m, [33mBarlow_Condensed[0m } [36mfrom[0m [32m"next/font/google"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m [33mHeader[0m [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mFooter[0m [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m5 |[0m [36mimport[0m [33mClientEffects[0m [36mfrom[0m [32m"@/components/ClientEffects"[0m;
+  [90m6 |[0m [36mimport[0m [33mDiscountModal[0m [36mfrom[0m [32m"@/components/DiscountModal"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  1 | import type { Metadata } from "next";
+  2 | import { Barlow, Barlow_Condensed } from "next/font/google";
+> 3 | import Header from "@/components/Header";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Footer from "@/components/Footer";
+  5 | import ClientEffects from "@/components/ClientEffects";
+  6 | import DiscountModal from "@/components/DiscountModal";
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  1 | import type { Metadata } from "next";
+  2 | import { Barlow, Barlow_Condensed } from "next/font/google";
+> 3 | import Header from "@/components/Header";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Footer from "@/components/Footer";
+  5 | import ClientEffects from "@/components/ClientEffects";
+  6 | import DiscountModal from "@/components/DiscountModal";
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  1 | import type { Metadata } from "next";
+  2 | import { Barlow, Barlow_Condensed } from "next/font/google";
+> 3 | import Header from "@/components/Header";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Footer from "@/components/Footer";
+  5 | import ClientEffects from "@/components/ClientEffects";
+  6 | import DiscountModal from "@/components/DiscountModal";
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/layout.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  1 | import type { Metadata } from "next";
+  2 | import { Barlow, Barlow_Condensed } from "next/font/google";
+> 3 | import Header from "@/components/Header";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Footer from "@/components/Footer";
+  5 | import ClientEffects from "@/components/ClientEffects";
+  6 | import DiscountModal from "@/components/DiscountModal";
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)
+⨯ ./app/portfolio/page.tsx:1:85
+Module not found: Can't resolve '@/components/PortfolioGrid'
+[31m[1m>[0m [90m1 |[0m ...[32mnents/PageHero"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...[32mcted logo, branding, website and mobile work by American Logo Expert."[0m};
+  [90m3 |[0m ...[32mcted work"[0m title=[32m"Proof is in the"[0m accent=[32m"portfolio."[0m copy=[32m"A selection of bold identit...[0m
+  [90m4 |[0m ...
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:1:85
+Module not found: Can't resolve '@/components/PortfolioGrid'
+[31m[1m>[0m [90m1 |[0m ...[32mnents/PageHero"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...[32mcted logo, branding, website and mobile work by American Logo Expert."[0m};
+  [90m3 |[0m ...[32mcted work"[0m title=[32m"Proof is in the"[0m accent=[32m"portfolio."[0m copy=[32m"A selection of bold identit...[0m
+  [90m4 |[0m ...
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m ..., [33mPencilRuler[0m, [33mLayers3[0m, [33mRocket[0m, [33mStar[0m } [36mfrom[0m [32m"lucide-react"[0m;
+[31m[1m>[0m [90m2 |[0m ...[32ms/ServicesGrid"[0m; [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m; [36mimport[0m [33mCTA[0m [36mfrom[0m.[32m..[0m
+  [90m  |[0m                     [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m ...[32misual Identity'[0m,[32m'Motion Design'[0m];
+  [90m4 |[0m ...
+  [90m5 |[0m ...assName=[32m"absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...[0m
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mMetadata[0m } [36mfrom[0m [32m"next"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m [33mPortfolioGrid[0m [36mfrom[0m [32m"@/components/PortfolioGrid"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m [36mimport[0m [33mOfferButton[0m [36mfrom[0m [32m"@/components/OfferButton"[0m;
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata:[33mMetadata[0m={title:[32m"Our Creative Portfolio"[0m,description:[32m"Explore our lat...[0m
+  [90m5 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPortfolio[0m(){[36mreturn[0m <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | ..., PencilRuler, Layers3, Rocket, Star } from "lucide-react";
+> 2 | ...s/ServicesGrid"; import PortfolioGrid from "@/components/PortfolioGrid"; import CTA from...
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | ...isual Identity','Motion Design'];
+  4 | ...
+  5 | ...assName="absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | import type { Metadata } from "next";
+> 2 | import PortfolioGrid from "@/components/PortfolioGrid";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import OfferButton from "@/components/OfferButton";
+  4 | export const metadata:Metadata={title:"Our Creative Portfolio",description:"Explore our lat...
+  5 | export default function Portfolio(){return <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | ..., PencilRuler, Layers3, Rocket, Star } from "lucide-react";
+> 2 | ...s/ServicesGrid"; import PortfolioGrid from "@/components/PortfolioGrid"; import CTA from...
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | ...isual Identity','Motion Design'];
+  4 | ...
+  5 | ...assName="absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | import type { Metadata } from "next";
+> 2 | import PortfolioGrid from "@/components/PortfolioGrid";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import OfferButton from "@/components/OfferButton";
+  4 | export const metadata:Metadata={title:"Our Creative Portfolio",description:"Explore our lat...
+  5 | export default function Portfolio(){return <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | ..., PencilRuler, Layers3, Rocket, Star } from "lucide-react";
+> 2 | ...s/ServicesGrid"; import PortfolioGrid from "@/components/PortfolioGrid"; import CTA from...
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | ...isual Identity','Motion Design'];
+  4 | ...
+  5 | ...assName="absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | import type { Metadata } from "next";
+> 2 | import PortfolioGrid from "@/components/PortfolioGrid";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import OfferButton from "@/components/OfferButton";
+  4 | export const metadata:Metadata={title:"Our Creative Portfolio",description:"Explore our lat...
+  5 | export default function Portfolio(){return <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | ..., PencilRuler, Layers3, Rocket, Star } from "lucide-react";
+> 2 | ...s/ServicesGrid"; import PortfolioGrid from "@/components/PortfolioGrid"; import CTA from...
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | ...isual Identity','Motion Design'];
+  4 | ...
+  5 | ...assName="absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | import type { Metadata } from "next";
+> 2 | import PortfolioGrid from "@/components/PortfolioGrid";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import OfferButton from "@/components/OfferButton";
+  4 | export const metadata:Metadata={title:"Our Creative Portfolio",description:"Explore our lat...
+  5 | export default function Portfolio(){return <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/page.tsx:2:105
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | ..., PencilRuler, Layers3, Rocket, Star } from "lucide-react";
+> 2 | ...s/ServicesGrid"; import PortfolioGrid from "@/components/PortfolioGrid"; import CTA from...
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | ...isual Identity','Motion Design'];
+  4 | ...
+  5 | ...assName="absolute left-[-180px] top-28 h-[500px] w-[500px] rounded-full bg-red-700/10 bl...
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+[browser] ./app/portfolio/page.tsx:2:1
+Module not found: Can't resolve '@/components/PortfolioGrid'
+  1 | import type { Metadata } from "next";
+> 2 | import PortfolioGrid from "@/components/PortfolioGrid";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import OfferButton from "@/components/OfferButton";
+  4 | export const metadata:Metadata={title:"Our Creative Portfolio",description:"Explore our lat...
+  5 | export default function Portfolio(){return <>
+
+Import map: aliased to relative './components/PortfolioGrid' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+    at handleErrors (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+    at processMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:14014:21)
+    at WebSocket.handleMessage (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13458:52) (file://D:/Techware Hub/Techware Hub/domains/americanlogoexpert.com/.next/dev/static/chunks/node_modules_next_dist_client_0r5nbpw._.js:13951:21)
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
